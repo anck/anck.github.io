@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-06-25T09:50:00-08:00</lastmod>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-06-25T09:50:00-08:00</lastmod>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/development/</loc>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/development/</loc>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/game-development/</loc>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2023-06-25T09:50:00-08:00</lastmod>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/robo/</loc>
+    <lastmod>2025-01-17T19:16:31-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/program-managment/</loc>
     <lastmod>2023-06-25T09:50:00-08:00</lastmod>
@@ -20,16 +35,16 @@
     <loc>http://localhost:1313/post/stratergy/</loc>
     <lastmod>2023-06-25T09:50:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-06-25T09:50:00-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/testing/</loc>
     <lastmod>2023-06-25T09:50:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/uitesting/</loc>
     <lastmod>2016-08-04T22:24:25-09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/localizations/</loc>
+    <loc>http://localhost:1313/tags/localization/</loc>
+    <lastmod>2016-08-04T22:24:25-09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/testing/</loc>
     <lastmod>2016-08-04T22:24:25-09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/smartcard/</loc>
@@ -41,11 +56,11 @@
     <loc>http://localhost:1313/categories/automation/</loc>
     <lastmod>2015-10-20T11:49:55-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
-    <lastmod>2015-10-20T11:49:55-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/scripting/</loc>
     <lastmod>2015-10-20T11:49:55-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/testng/</loc>
+    <lastmod>2015-10-18T22:00:23-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nokia-n9/</loc>
     <lastmod>2015-07-29T01:59:54-08:00</lastmod>
@@ -59,11 +74,14 @@
     <loc>http://localhost:1313/tags/selenium/</loc>
     <lastmod>2015-07-29T01:59:54-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/testing/</loc>
-    <lastmod>2015-07-29T01:59:54-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/testingresearch/</loc>
     <lastmod>2015-07-29T01:59:54-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/analytics/</loc>
+    <lastmod>2015-01-23T04:01:35-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data/</loc>
+    <lastmod>2015-01-23T04:01:35-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/mywebapp/</loc>
     <lastmod>2015-01-23T04:01:35-08:00</lastmod>
