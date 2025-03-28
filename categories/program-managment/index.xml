@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Program Managment on Anchit Kalra&#39;s Blog</title>
-    <link>http://localhost:1313/categories/program-managment/</link>
+    <link>http://localhost:49400/categories/program-managment/</link>
     <description>Recent content in Program Managment on Anchit Kalra&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jun 2023 09:50:00 -0800</lastBuildDate><atom:link href="http://localhost:1313/categories/program-managment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 22:24:25 -0900</lastBuildDate><atom:link href="http://localhost:49400/categories/program-managment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Prioritize Like a Pro (Without Losing Your Sanity)</title>
+      <link>http://localhost:49400/post/priority/</link>
+      <pubDate>Sat, 15 Feb 2025 22:24:25 -0900</pubDate>
+      
+      <guid>http://localhost:49400/post/priority/</guid>
+      
+        <description>How to Prioritize Like a Pro (Without Losing Your Sanity)</description>
+      
+    </item>
+    
     <item>
       <title>Slowest Victory Or Noise Before Defeat?</title>
-      <link>http://localhost:1313/post/stratergy/</link>
+      <link>http://localhost:49400/post/stratergy/</link>
       <pubDate>Sun, 25 Jun 2023 09:50:00 -0800</pubDate>
       
-      <guid>http://localhost:1313/post/stratergy/</guid>
+      <guid>http://localhost:49400/post/stratergy/</guid>
       
         <description>Slowest Victory Or Noise Before Defeat?</description>
       

@@ -2,17 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testing on Anchit Kalra&#39;s Blog</title>
-    <link>http://localhost:1313/categories/testing/</link>
+    <link>http://localhost:49400/categories/testing/</link>
     <description>Recent content in Testing on Anchit Kalra&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Aug 2016 22:24:25 -0900</lastBuildDate><atom:link href="http://localhost:1313/categories/testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 22:24:25 -0900</lastBuildDate><atom:link href="http://localhost:49400/categories/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Prioritize Like a Pro (Without Losing Your Sanity)</title>
+      <link>http://localhost:49400/post/priority/</link>
+      <pubDate>Sat, 15 Feb 2025 22:24:25 -0900</pubDate>
+      
+      <guid>http://localhost:49400/post/priority/</guid>
+      
+        <description>How to Prioritize Like a Pro (Without Losing Your Sanity)</description>
+      
+    </item>
+    
     <item>
       <title>Automating UI tests for MSI and MSP using Python.</title>
-      <link>http://localhost:1313/post/uitesting/</link>
+      <link>http://localhost:49400/post/uitesting/</link>
       <pubDate>Thu, 04 Aug 2016 22:24:25 -0900</pubDate>
       
-      <guid>http://localhost:1313/post/uitesting/</guid>
+      <guid>http://localhost:49400/post/uitesting/</guid>
       
         <description>Automating UI tests for MSI and MSP using Python.</description>
       
@@ -20,10 +31,10 @@
     
     <item>
       <title>Testing Research</title>
-      <link>http://localhost:1313/post/testingresearch/</link>
+      <link>http://localhost:49400/post/testingresearch/</link>
       <pubDate>Wed, 29 Jul 2015 01:59:54 -0800</pubDate>
       
-      <guid>http://localhost:1313/post/testingresearch/</guid>
+      <guid>http://localhost:49400/post/testingresearch/</guid>
       
         <description>Testing Research</description>
       
