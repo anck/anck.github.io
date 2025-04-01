@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anchit Kalra&#39;s Blog</title>
-    <link>http://localhost:49455/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Anchit Kalra&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 22:24:25 -0900</lastBuildDate><atom:link href="http://localhost:49455/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 22:24:25 -0900</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>http://localhost:49455/tags/development/</link>
+      <link>http://localhost:1313/tags/development/</link>
       <pubDate>Sat, 15 Feb 2025 22:24:25 -0900</pubDate>
       
-      <guid>http://localhost:49455/tags/development/</guid>
+      <guid>http://localhost:1313/tags/development/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Program Managment</title>
-      <link>http://localhost:49455/tags/program-managment/</link>
+      <link>http://localhost:1313/tags/program-managment/</link>
       <pubDate>Sat, 15 Feb 2025 22:24:25 -0900</pubDate>
       
-      <guid>http://localhost:49455/tags/program-managment/</guid>
+      <guid>http://localhost:1313/tags/program-managment/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Testing</title>
-      <link>http://localhost:49455/tags/testing/</link>
+      <link>http://localhost:1313/tags/testing/</link>
       <pubDate>Sun, 25 Jun 2023 09:50:00 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/testing/</guid>
+      <guid>http://localhost:1313/tags/testing/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Localization</title>
-      <link>http://localhost:49455/tags/localization/</link>
+      <link>http://localhost:1313/tags/localization/</link>
       <pubDate>Thu, 04 Aug 2016 22:24:25 -0900</pubDate>
       
-      <guid>http://localhost:49455/tags/localization/</guid>
+      <guid>http://localhost:1313/tags/localization/</guid>
       
         <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Automation</title>
-      <link>http://localhost:49455/tags/automation/</link>
+      <link>http://localhost:1313/tags/automation/</link>
       <pubDate>Tue, 20 Oct 2015 11:49:55 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/automation/</guid>
+      <guid>http://localhost:1313/tags/automation/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Scripting</title>
-      <link>http://localhost:49455/tags/scripting/</link>
+      <link>http://localhost:1313/tags/scripting/</link>
       <pubDate>Tue, 20 Oct 2015 11:49:55 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/scripting/</guid>
+      <guid>http://localhost:1313/tags/scripting/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>Nokia N9</title>
-      <link>http://localhost:49455/tags/nokia-n9/</link>
+      <link>http://localhost:1313/tags/nokia-n9/</link>
       <pubDate>Wed, 29 Jul 2015 01:59:54 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/nokia-n9/</guid>
+      <guid>http://localhost:1313/tags/nokia-n9/</guid>
       
         <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>PhantomJS</title>
-      <link>http://localhost:49455/tags/phantomjs/</link>
+      <link>http://localhost:1313/tags/phantomjs/</link>
       <pubDate>Wed, 29 Jul 2015 01:59:54 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/phantomjs/</guid>
+      <guid>http://localhost:1313/tags/phantomjs/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>QTWebKit</title>
-      <link>http://localhost:49455/tags/qtwebkit/</link>
+      <link>http://localhost:1313/tags/qtwebkit/</link>
       <pubDate>Wed, 29 Jul 2015 01:59:54 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/qtwebkit/</guid>
+      <guid>http://localhost:1313/tags/qtwebkit/</guid>
       
         <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Selenium</title>
-      <link>http://localhost:49455/tags/selenium/</link>
+      <link>http://localhost:1313/tags/selenium/</link>
       <pubDate>Wed, 29 Jul 2015 01:59:54 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/selenium/</guid>
+      <guid>http://localhost:1313/tags/selenium/</guid>
       
         <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>Analytics</title>
-      <link>http://localhost:49455/tags/analytics/</link>
+      <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Fri, 23 Jan 2015 04:01:35 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/analytics/</guid>
+      <guid>http://localhost:1313/tags/analytics/</guid>
       
         <description></description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>Data</title>
-      <link>http://localhost:49455/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Fri, 23 Jan 2015 04:01:35 -0800</pubDate>
       
-      <guid>http://localhost:49455/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       
         <description></description>
       
